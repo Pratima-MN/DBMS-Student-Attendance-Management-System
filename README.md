@@ -1,0 +1,2 @@
+# DBMS-Student-Attendance-Management-System
+Student Attendance Management System deals with the maintenance of the student's attendance details. This application takes attendance electronically and the records of the attendance are storing in a database. It generates the attendance of the student on basis of presence in class. It is maintained on the daily basis of the attendance. The staff will be provided with the separate username and password to take student attendance.

@@ -1,6 +1,8 @@
 Attendance-System
 =================
-
+Attendance management is important to every single organization. Organizations will have to
+keep a track of people within the organization such as employees and students to maximize their
+performance.
 The project is meant to create an advanced attendance taking system to help teachers, 
 students and college administration by automating the entire process. It is designed keeping 
 scalability and code- reusability in mind, which means that the same project can be altered 
@@ -8,6 +10,10 @@ by changing few variables to get desired results. Furthermore, there’s scope o
 functionality without disturbing any of the existing one. This is made possible by using 
 Object Oriented Programming, a Modular for designing web service, and following large 
 parts of MVC model. This allows us to extend the project to mobile applications and other environments.
+The staff handling the particular subject is responsible to take the attendance of all students.
+Only if the student is present on the particular date, the attendance will be calculated. The student
+attendance report based on semester wise will be generated. The proctor can view the attendance status
+of their respective students.
 
 SCREENSHOT: 
 1.HOME PAGE:

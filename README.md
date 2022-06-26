@@ -47,7 +47,7 @@ SCREENSHOT:
 ![image](https://user-images.githubusercontent.com/71813503/175823562-c8f37183-f05c-446b-b9db-ec4420f076a8.png)
 
 11.STATASTICS:
-![image](https://user-images.githubusercontent.com/71813503/175823579-843505f4-7246-4c0d-86d7-dd3563fec625.png)
+![image](https://user-images.githubusercontent.com/71813503/175823579-843505f4-7246-4c0d-86d7-dd3563fec625.png).
 
 
 
